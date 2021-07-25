@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          mayur yadav
+          mayur yadav heruku app
         </a>
       </header>
     </div>
